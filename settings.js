@@ -21,27 +21,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
+global.owner = ['265887329058'] //ur owner number
+global.ownernomer = "265887329058" //ur owner number2
+global.ownername = "𝙼𝙰𝚁𝚅𝙴𝙻𝙻𝙾𝚄𝚂  " //ur owner name
+global.ytname = "YT: 𝙼𝙰𝚁𝚅𝙴𝙻𝙻𝙾𝚄𝚂 " //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
+global.botname = "𝙼𝙰𝚁𝚅𝙴𝙻𝙻𝙾𝚄𝚂 𝚃𝙷𝙴 𝙱𝙾𝚃 "
+global.ownernumber = '265887329058'
+global.ownername = '𝙼𝙰𝚁𝚅𝙴𝙻𝙻𝙾𝚄𝚂  '
+global.ownerNumber = ["265887329058@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
+global.wagc = "https://chat.whatsapp.com/ExzxDaP8kYN07MAKFFTEI3"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "Sticker By"
+global.botscript = 'https://𝙼𝙰𝚁𝚅𝙴𝙻𝙻𝙾𝚄𝚂 𝚃𝙷𝙴 𝙱𝙾𝚃 ' //script link
+global.packname = "Sticker By'𝙼𝙰𝚁𝚅𝙴𝙻𝙻𝙾𝚄𝚂 𝚃𝙷𝙴 𝙱𝙾𝚃 '
 global.author = "🦄드림 가이 Xeon\n\n"
-global.creator = "916909137213@s.whatsapp.net"
+global.creator = "265887329058@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
