@@ -1,3 +1,3 @@
 {
-	"name": "Cheems Bot Multi Device "
+	"name": "𝙼𝙰𝚁𝚅𝙴𝙻𝙻𝙾𝚄𝚂 𝚃𝙷𝙴 𝙱𝙾𝚃 "
 }
